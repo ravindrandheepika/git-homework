@@ -1,1 +1,1 @@
-# git-homework
+# Git Homework Project
